@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.project1.repository.OrderRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.65 s - in com.example.project1.repository.OrderRepositoryTest
